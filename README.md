@@ -2,7 +2,7 @@
 
  Parser, Scope, and Type Checking
 
-****ONGOING****
+** ****ONGOING**** **
 
 An extension of [Parser-Building](https://github.com/zbl5332/Parser-Building) where it built a Lexer and Parser. 
 
